@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 36a7e3a318545b645ada3f9d8476dba2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bracket1
+    100002: Bracket1 1
+    100004: Bracket1 2
+    100006: Bracket1 3
+    100008: Bracket1 4
+    100010: Bracket1 5
+    100012: Bracket1 6
+    100014: Bracket1 7
+    100016: Bracket2
+    100018: Bracket2 1
+    100020: Bracket2 2
+    100022: Bracket2 3
+    100024: Bracket2 4
+    100026: Bracket2 5
+    100028: Bracket2 6
+    100030: Bracket2 7
+    100032: Bracket3
+    100034: Bracket3 1
+    100036: Bracket3 2
+    100038: Bracket3 3
+    100040: Bracket3 4
+    100042: Bracket3 5
+    100044: Bracket3 6
+    100046: Bracket3 7
+    100048: Bracket4
+    100050: Bracket4 1
+    100052: Bracket4 2
+    100054: Bracket4 3
+    100056: Bracket4 4
+    100058: Bracket4 5
+    100060: Bracket4 6
+    100062: Bracket4 7
+    100064: Bracket5
+    100066: Bracket5 1
+    100068: Bracket5 2
+    100070: Bracket5 3
+    100072: Bracket5 4
+    100074: Bracket5 5
+    100076: Bracket5 6
+    100078: Bracket5 7
+    100080: Bracket6
+    100082: Bracket6 1
+    100084: Bracket6 2
+    100086: Bracket6 3
+    100088: Bracket6 4
+    100090: Bracket6 5
+    100092: Bracket6 6
+    100094: Bracket6 7
+    100096: Bracket7
+    100098: Bracket7 1
+    100100: Bracket7 2
+    100102: Bracket7 3
+    100104: Bracket7 4
+    100106: Bracket7 5
+    100108: Bracket7 6
+    100110: Bracket7 7
+    100112: Bracket8
+    100114: Bracket8 1
+    100116: Bracket8 2
+    100118: Bracket8 3
+    100120: Bracket8 4
+    100122: Bracket8 5
+    100124: Bracket8 6
+    100126: Bracket8 7
+    100128: Frame
+    100130: Frame 1
+    100132: Frame 2
+    100134: Frame 3
+    100136: Master_CTRL
+    100138: Shelf1
+    100140: Shelf1 1
+    100142: Shelf1 10
+    100144: Shelf1 11
+    100146: Shelf1 2
+    100148: Shelf1 3
+    100150: Shelf1 4
+    100152: Shelf1 5
+    100154: Shelf1 6
+    100156: Shelf1 7
+    100158: Shelf1 8
+    100160: Shelf1 9
+    100162: Shelf2
+    100164: Shelf2 1
+    100166: Shelf2 10
+    100168: Shelf2 11
+    100170: Shelf2 2
+    100172: Shelf2 3
+    100174: Shelf2 4
+    100176: Shelf2 5
+    100178: Shelf2 6
+    100180: Shelf2 7
+    100182: Shelf2 8
+    100184: Shelf2 9
+    100186: Shelf3
+    100188: Shelf3 1
+    100190: Shelf3 10
+    100192: Shelf3 11
+    100194: Shelf3 2
+    100196: Shelf3 3
+    100198: Shelf3 4
+    100200: Shelf3 5
+    100202: Shelf3 6
+    100204: Shelf3 7
+    100206: Shelf3 8
+    100208: Shelf3 9
+    100210: Shelf4
+    100212: Shelf4 1
+    100214: Shelf4 2
+    100216: Shelf4 3
+    100218: Shelf5
+    100220: Shelf5 1
+    100222: Shelf5 2
+    100224: Shelf5 3
+    100226: Shelf6
+    100228: Shelf6 1
+    100230: Shelf6 2
+    100232: Shelf6 3
+    100234: Shelfs
+    100236: Shelfs 1
+    100238: Shelfs 2
+    100240: Shelfs 3
+    100242: //RootNode
+    100244: Store_Shelves
+    100246: Store_Shelves1
+    100248: Store_Shelves2
+    100250: Store_Shelves3
+    100252: Top_Brackets
+    100254: Top_Brackets 1
+    100256: Top_Brackets 2
+    100258: Top_Brackets 3
+    100260: TopShelfBrackets1
+    100262: TopShelfBrackets1 1
+    100264: TopShelfBrackets1 2
+    100266: TopShelfBrackets1 3
+    100268: TopShelfBrackets2
+    100270: TopShelfBrackets2 1
+    100272: TopShelfBrackets2 2
+    100274: TopShelfBrackets2 3
+    400000: Bracket1
+    400002: Bracket1 1
+    400004: Bracket1 2
+    400006: Bracket1 3
+    400008: Bracket1 4
+    400010: Bracket1 5
+    400012: Bracket1 6
+    400014: Bracket1 7
+    400016: Bracket2
+    400018: Bracket2 1
+    400020: Bracket2 2
+    400022: Bracket2 3
+    400024: Bracket2 4
+    400026: Bracket2 5
+    400028: Bracket2 6
+    400030: Bracket2 7
+    400032: Bracket3
+    400034: Bracket3 1
+    400036: Bracket3 2
+    400038: Bracket3 3
+    400040: Bracket3 4
+    400042: Bracket3 5
+    400044: Bracket3 6
+    400046: Bracket3 7
+    400048: Bracket4
+    400050: Bracket4 1
+    400052: Bracket4 2
+    400054: Bracket4 3
+    400056: Bracket4 4
+    400058: Bracket4 5
+    400060: Bracket4 6
+    400062: Bracket4 7
+    400064: Bracket5
+    400066: Bracket5 1
+    400068: Bracket5 2
+    400070: Bracket5 3
+    400072: Bracket5 4
+    400074: Bracket5 5
+    400076: Bracket5 6
+    400078: Bracket5 7
+    400080: Bracket6
+    400082: Bracket6 1
+    400084: Bracket6 2
+    400086: Bracket6 3
+    400088: Bracket6 4
+    400090: Bracket6 5
+    400092: Bracket6 6
+    400094: Bracket6 7
+    400096: Bracket7
+    400098: Bracket7 1
+    400100: Bracket7 2
+    400102: Bracket7 3
+    400104: Bracket7 4
+    400106: Bracket7 5
+    400108: Bracket7 6
+    400110: Bracket7 7
+    400112: Bracket8
+    400114: Bracket8 1
+    400116: Bracket8 2
+    400118: Bracket8 3
+    400120: Bracket8 4
+    400122: Bracket8 5
+    400124: Bracket8 6
+    400126: Bracket8 7
+    400128: Frame
+    400130: Frame 1
+    400132: Frame 2
+    400134: Frame 3
+    400136: Master_CTRL
+    400138: Shelf1
+    400140: Shelf1 1
+    400142: Shelf1 10
+    400144: Shelf1 11
+    400146: Shelf1 2
+    400148: Shelf1 3
+    400150: Shelf1 4
+    400152: Shelf1 5
+    400154: Shelf1 6
+    400156: Shelf1 7
+    400158: Shelf1 8
+    400160: Shelf1 9
+    400162: Shelf2
+    400164: Shelf2 1
+    400166: Shelf2 10
+    400168: Shelf2 11
+    400170: Shelf2 2
+    400172: Shelf2 3
+    400174: Shelf2 4
+    400176: Shelf2 5
+    400178: Shelf2 6
+    400180: Shelf2 7
+    400182: Shelf2 8
+    400184: Shelf2 9
+    400186: Shelf3
+    400188: Shelf3 1
+    400190: Shelf3 10
+    400192: Shelf3 11
+    400194: Shelf3 2
+    400196: Shelf3 3
+    400198: Shelf3 4
+    400200: Shelf3 5
+    400202: Shelf3 6
+    400204: Shelf3 7
+    400206: Shelf3 8
+    400208: Shelf3 9
+    400210: Shelf4
+    400212: Shelf4 1
+    400214: Shelf4 2
+    400216: Shelf4 3
+    400218: Shelf5
+    400220: Shelf5 1
+    400222: Shelf5 2
+    400224: Shelf5 3
+    400226: Shelf6
+    400228: Shelf6 1
+    400230: Shelf6 2
+    400232: Shelf6 3
+    400234: Shelfs
+    400236: Shelfs 1
+    400238: Shelfs 2
+    400240: Shelfs 3
+    400242: //RootNode
+    400244: Store_Shelves
+    400246: Store_Shelves1
+    400248: Store_Shelves2
+    400250: Store_Shelves3
+    400252: Top_Brackets
+    400254: Top_Brackets 1
+    400256: Top_Brackets 2
+    400258: Top_Brackets 3
+    400260: TopShelfBrackets1
+    400262: TopShelfBrackets1 1
+    400264: TopShelfBrackets1 2
+    400266: TopShelfBrackets1 3
+    400268: TopShelfBrackets2
+    400270: TopShelfBrackets2 1
+    400272: TopShelfBrackets2 2
+    400274: TopShelfBrackets2 3
+    2100000: blinn1
+    2300000: Bracket1
+    2300002: Bracket1 1
+    2300004: Bracket1 2
+    2300006: Bracket1 3
+    2300008: Bracket1 4
+    2300010: Bracket1 5
+    2300012: Bracket1 6
+    2300014: Bracket1 7
+    2300016: Bracket2
+    2300018: Bracket2 1
+    2300020: Bracket2 2
+    2300022: Bracket2 3
+    2300024: Bracket2 4
+    2300026: Bracket2 5
+    2300028: Bracket2 6
+    2300030: Bracket2 7
+    2300032: Bracket3
+    2300034: Bracket3 1
+    2300036: Bracket3 2
+    2300038: Bracket3 3
+    2300040: Bracket3 4
+    2300042: Bracket3 5
+    2300044: Bracket3 6
+    2300046: Bracket3 7
+    2300048: Bracket4
+    2300050: Bracket4 1
+    2300052: Bracket4 2
+    2300054: Bracket4 3
+    2300056: Bracket4 4
+    2300058: Bracket4 5
+    2300060: Bracket4 6
+    2300062: Bracket4 7
+    2300064: Bracket5
+    2300066: Bracket5 1
+    2300068: Bracket5 2
+    2300070: Bracket5 3
+    2300072: Bracket5 4
+    2300074: Bracket5 5
+    2300076: Bracket5 6
+    2300078: Bracket5 7
+    2300080: Bracket6
+    2300082: Bracket6 1
+    2300084: Bracket6 2
+    2300086: Bracket6 3
+    2300088: Bracket6 4
+    2300090: Bracket6 5
+    2300092: Bracket6 6
+    2300094: Bracket6 7
+    2300096: Bracket7
+    2300098: Bracket7 1
+    2300100: Bracket7 2
+    2300102: Bracket7 3
+    2300104: Bracket7 4
+    2300106: Bracket7 5
+    2300108: Bracket7 6
+    2300110: Bracket7 7
+    2300112: Bracket8
+    2300114: Bracket8 1
+    2300116: Bracket8 2
+    2300118: Bracket8 3
+    2300120: Bracket8 4
+    2300122: Bracket8 5
+    2300124: Bracket8 6
+    2300126: Bracket8 7
+    2300128: Frame
+    2300130: Frame 1
+    2300132: Frame 2
+    2300134: Frame 3
+    2300136: Shelf1 10
+    2300138: Shelf1 11
+    2300140: Shelf1 4
+    2300142: Shelf1 5
+    2300144: Shelf1 6
+    2300146: Shelf1 7
+    2300148: Shelf1 8
+    2300150: Shelf1 9
+    2300152: Shelf2 10
+    2300154: Shelf2 11
+    2300156: Shelf2 4
+    2300158: Shelf2 5
+    2300160: Shelf2 6
+    2300162: Shelf2 7
+    2300164: Shelf2 8
+    2300166: Shelf2 9
+    2300168: Shelf3 10
+    2300170: Shelf3 11
+    2300172: Shelf3 4
+    2300174: Shelf3 5
+    2300176: Shelf3 6
+    2300178: Shelf3 7
+    2300180: Shelf3 8
+    2300182: Shelf3 9
+    3300000: Bracket1
+    3300002: Bracket1 1
+    3300004: Bracket1 2
+    3300006: Bracket1 3
+    3300008: Bracket1 4
+    3300010: Bracket1 5
+    3300012: Bracket1 6
+    3300014: Bracket1 7
+    3300016: Bracket2
+    3300018: Bracket2 1
+    3300020: Bracket2 2
+    3300022: Bracket2 3
+    3300024: Bracket2 4
+    3300026: Bracket2 5
+    3300028: Bracket2 6
+    3300030: Bracket2 7
+    3300032: Bracket3
+    3300034: Bracket3 1
+    3300036: Bracket3 2
+    3300038: Bracket3 3
+    3300040: Bracket3 4
+    3300042: Bracket3 5
+    3300044: Bracket3 6
+    3300046: Bracket3 7
+    3300048: Bracket4
+    3300050: Bracket4 1
+    3300052: Bracket4 2
+    3300054: Bracket4 3
+    3300056: Bracket4 4
+    3300058: Bracket4 5
+    3300060: Bracket4 6
+    3300062: Bracket4 7
+    3300064: Bracket5
+    3300066: Bracket5 1
+    3300068: Bracket5 2
+    3300070: Bracket5 3
+    3300072: Bracket5 4
+    3300074: Bracket5 5
+    3300076: Bracket5 6
+    3300078: Bracket5 7
+    3300080: Bracket6
+    3300082: Bracket6 1
+    3300084: Bracket6 2
+    3300086: Bracket6 3
+    3300088: Bracket6 4
+    3300090: Bracket6 5
+    3300092: Bracket6 6
+    3300094: Bracket6 7
+    3300096: Bracket7
+    3300098: Bracket7 1
+    3300100: Bracket7 2
+    3300102: Bracket7 3
+    3300104: Bracket7 4
+    3300106: Bracket7 5
+    3300108: Bracket7 6
+    3300110: Bracket7 7
+    3300112: Bracket8
+    3300114: Bracket8 1
+    3300116: Bracket8 2
+    3300118: Bracket8 3
+    3300120: Bracket8 4
+    3300122: Bracket8 5
+    3300124: Bracket8 6
+    3300126: Bracket8 7
+    3300128: Frame
+    3300130: Frame 1
+    3300132: Frame 2
+    3300134: Frame 3
+    3300136: Shelf1 10
+    3300138: Shelf1 11
+    3300140: Shelf1 4
+    3300142: Shelf1 5
+    3300144: Shelf1 6
+    3300146: Shelf1 7
+    3300148: Shelf1 8
+    3300150: Shelf1 9
+    3300152: Shelf2 10
+    3300154: Shelf2 11
+    3300156: Shelf2 4
+    3300158: Shelf2 5
+    3300160: Shelf2 6
+    3300162: Shelf2 7
+    3300164: Shelf2 8
+    3300166: Shelf2 9
+    3300168: Shelf3 10
+    3300170: Shelf3 11
+    3300172: Shelf3 4
+    3300174: Shelf3 5
+    3300176: Shelf3 6
+    3300178: Shelf3 7
+    3300180: Shelf3 8
+    3300182: Shelf3 9
+    4300000: Frame
+    4300002: Shelf1
+    4300004: Bracket1
+    4300006: Bracket6
+    4300008: Shelf2
+    4300010: Bracket5
+    4300012: Bracket4
+    4300014: Bracket7
+    4300016: Shelf3
+    4300018: Bracket2
+    4300020: Shelf1
+    4300022: Bracket1
+    4300024: Bracket6
+    4300026: Shelf2
+    4300028: Bracket5
+    4300030: Bracket4
+    4300032: Bracket7
+    4300034: Shelf3
+    4300036: Bracket2
+    4300038: Bracket3
+    4300040: Bracket8
+    4300042: Bracket3
+    4300044: Bracket8
+    4300046: Frame
+    4300048: Shelf1
+    4300050: Bracket1
+    4300052: Bracket6
+    4300054: Shelf2
+    4300056: Bracket5
+    4300058: Bracket4
+    4300060: Bracket7
+    4300062: Shelf3
+    4300064: Bracket2
+    4300066: Shelf1
+    4300068: Bracket1
+    4300070: Bracket6
+    4300072: Shelf2
+    4300074: Bracket5
+    4300076: Bracket4
+    4300078: Bracket7
+    4300080: Shelf3
+    4300082: Bracket2
+    4300084: Bracket3
+    4300086: Bracket8
+    4300088: Bracket3
+    4300090: Bracket8
+    4300092: Frame
+    4300094: Shelf1
+    4300096: Bracket1
+    4300098: Bracket6
+    4300100: Shelf2
+    4300102: Bracket5
+    4300104: Bracket4
+    4300106: Bracket7
+    4300108: Shelf3
+    4300110: Bracket2
+    4300112: Shelf1
+    4300114: Bracket1
+    4300116: Bracket6
+    4300118: Shelf2
+    4300120: Bracket5
+    4300122: Bracket4
+    4300124: Bracket7
+    4300126: Shelf3
+    4300128: Bracket2
+    4300130: Bracket3
+    4300132: Bracket8
+    4300134: Bracket3
+    4300136: Bracket8
+    4300138: Frame
+    4300140: Shelf1
+    4300142: Bracket1
+    4300144: Bracket6
+    4300146: Shelf2
+    4300148: Bracket5
+    4300150: Bracket4
+    4300152: Bracket7
+    4300154: Shelf3
+    4300156: Bracket2
+    4300158: Shelf1
+    4300160: Bracket1
+    4300162: Bracket6
+    4300164: Shelf2
+    4300166: Bracket5
+    4300168: Bracket4
+    4300170: Bracket7
+    4300172: Shelf3
+    4300174: Bracket2
+    4300176: Bracket3
+    4300178: Bracket8
+    4300180: Bracket3
+    4300182: Bracket8
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
